@@ -1,8 +1,10 @@
+import {FilmDetails} from "./components/index"
+
 
 const App =()=> {
   return (
     <>
-       <h1>React GraphQL test</h1>
+        <FilmDetails />
     </>
   )
 }
